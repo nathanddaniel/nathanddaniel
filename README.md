@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nathanddaniel
-- 👀 I’m interested in programming and making video games
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming and AI
+- 🌱 I’m currently learning more about Java
+- 📫 How to reach me ... 20nmd1@queensu.ca
 
 <!---
 nathanddaniel/nathanddaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
