@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanddaniel
-- 👀 I’m interested in programming and AI
+  - 👀 I’m interested in programming and Machine Learning
 - 🌱 I’m currently learning more about Java
 - 📫 How to reach me ... 20nmd1@queensu.ca
 
