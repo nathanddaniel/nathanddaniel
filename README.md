@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @nathanddaniel computer engineering student @ Queens University
-- 👀 I’m interested in programming and Machine Learning
-- 🌱 I’m currently learning more about Operating Systems and Embedded Systems
-- 📫 How to reach me ... nathan.m.daniel@queensu.ca
+Hi 👋 Nathan Daniel
+💫 About Me:
+I am a third-year computer engineering student at Queen's University, passionate about coding, machine learning, and building full stack applications.
 
-<!---
-nathanddaniel/nathanddaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I'm Up To
+🤖 Exploring Operating Systems 
+💻 Building Spring Boot applications with PostgreSQL
+Check out my personal portfolio!
+
+🌐 Connect with me:
+LinkedIn
+
+💻 Tech Stack:
+Languages: C Java Python HTML CSS JavaScript C++ SQL VHDL
+
+Developer Tools: Git
+
+Libraries/Frameworks: ReactJS PostgreSQL Spring Boot 
