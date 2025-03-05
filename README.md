@@ -4,8 +4,9 @@
 I am a third-year computer engineering student at Queen's University, passionate about exploring the realms of coding, machine learning, and building full stack applications.
 
 ## 🚀 What I'm Up To
-- 🚀 Exploring Operating Systems
-- 💻 Building Spring Boot applications with PostgreSQL
+- 🚀 Building a RISC Style CPU in Verilog
+- 💻 Exploring ExpressJS and JS run time environments
+- ⭐ Learning more about DBMS!
 
 ## 🎓 About Me
 I'm also involved in building cybersecurity projects @Q3C and working on machine learning applications.
@@ -23,7 +24,8 @@ I'm also involved in building cybersecurity projects @Q3C and working on machine
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-014F86?style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-DA291C?style=flat)
+
 
 ### Developer Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
