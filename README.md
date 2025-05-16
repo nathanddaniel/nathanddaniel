@@ -5,7 +5,7 @@ I am a third-year computer engineering student at Queen's University, passionate
 
 ## 🚀 What I'm Up To
 - 🚀 Building an application for Queen's University students
-- 💻 Exploring ExpressJS and JS run time environments
+- 💻 Exploring Node JS and Express run time environments
 - 🔧 Working on an embedded systems prototype for runners!
 
 ## 🎓 About Me
