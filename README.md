@@ -19,9 +19,10 @@ I'm a 3rd year Computer Engineering University Student at Queen's University.
 
 #### Contact 
 --- 
-- LinkedIn:  [https://www.linkedin.com/in/ryan-z-su/](https://www.linkedin.com/in/nathan-daniel-nd/)
+- LinkedIn:  https://www.linkedin.com/in/nathan-daniel-nd/
 - Email:     nathan.m.daniel@queensu.ca
-- Portfolio: [https://ryan-su-12.github.io/](https://nathanddaniel.github.io/My-Personal-Website/)
+- Portfolio: https://nathanddaniel.github.io/My-Personal-Website/
 
 #### Skills
 ---
+[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,aws,js,html,c,cpp,css,docker,express,flask,gcp,git,heroku,html,java,js,mongodb,nextjs,nodejs,npm,php,postgres,py,qt,redis,spring,sqlite,sklearn,ts)](https://skillicons.dev)
