@@ -12,15 +12,16 @@ I'm a 4th-year Computer Engineering student at Queen's University.
 - 🥋 Learning Muay Thai and Brazilian jiu-jitsu
 
 #### Experience
-- Intern at Queen's University as a Educational Technology Intern under OPDES
+- Current: Software Engineering Intern @ TensoAI
+- Prev: Educational Technology Intern @ Queen's University - OPDES
 - Software Developer at Queen's Cryptography and Cybersecurity Club (Q3C)
 - IT Director at Queen's Engineering Society (NSBE Chapter)
 - Programming Tutor 
 
 #### Contact 
 --- 
-- LinkedIn:  https://www.linkedin.com/in/nathan-daniel-nd/
-- Email:     nathan.m.daniel@queensu.ca
+- LinkedIn: https://www.linkedin.com/in/nathan-daniel-nd/
+- Email: nathan.m.daniel@queensu.ca
 - Portfolio: https://nathanddaniel.github.io/My-Personal-Website/
 
 #### Skills
