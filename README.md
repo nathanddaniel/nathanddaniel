@@ -2,7 +2,7 @@
 
 #### About Me
 ---
-I'm a 3rd year Computer Engineering student at Queen's University.
+I'm a 4th-year Computer Engineering student at Queen's University.
 
 #### What I'm Up To
 ---
