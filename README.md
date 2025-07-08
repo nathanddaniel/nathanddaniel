@@ -7,7 +7,7 @@ I'm a 4th-year Computer Engineering student at Queen's University.
 #### What I'm Up To
 ---
 - 🚀 Building an application for Queen's University students
-- 💻 Exploring Node JS and Express run time environments
+- 💻 Working at TensoAI as a ML Intern!
 - 🔧 Working on an embedded systems prototype for runners!
 - 🥋 Learning Muay Thai and Brazilian jiu-jitsu
 
