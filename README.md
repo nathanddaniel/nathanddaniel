@@ -26,4 +26,4 @@ I'm a 4th-year Computer Engineering student at Queen's University.
 
 #### Skills
 ---
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,azure,bash,c,clion,cs,cpp,css,docker,dotnet,express,flask,git,githubactions,gitlab,html,java,js,mongodb,mysql,nodejs,npm,opencv,php,postgres,postman,py,pycharm,qt,react,spring,sqlite,sklearn,tailwind,ts,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,azure,bash,c,clion,cs,cpp,css,docker,express,flask,git,githubactions,gitlab,html,java,js,mongodb,mysql,nodejs,npm,opencv,php,postgres,postman,py,pycharm,qt,react,spring,sqlite,sklearn,tailwind,ts,vite,vscode)](https://skillicons.dev)
