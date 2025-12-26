@@ -6,13 +6,12 @@ I'm a 4th-year Computer Engineering student at Queen's University.
 
 #### What I'm Up To
 ---
-- 🚀 Building an application for Queen's University students
-- 💻 Working at TensoAI as a ML Intern!
-- 🔧 Working on an embedded systems prototype for runners!
+- 💻 Working at CIBC as a Systems Engineer Intern!
+- 🔧 Working on many sideprojects!
 - 🥋 Learning Muay Thai and Brazilian jiu-jitsu
 
 #### Experience
-- Current: Incoming Systems Engineering Intern @ CIBC
+- Current: Systems Engineering Intern @ CIBC
 - Prev: SWE Intern @ Dye&Durham, TensoAI, Queen's University - OPDES
 - Software Developer at Queen's Cryptography and Cybersecurity Club (Q3C)
 - IT Director at Queen's Engineering Society (NSBE Chapter)
@@ -22,7 +21,6 @@ I'm a 4th-year Computer Engineering student at Queen's University.
 --- 
 - LinkedIn: https://www.linkedin.com/in/nathan-daniel-nd/
 - Email: nathan.m.daniel@queensu.ca
-- Portfolio: https://nathanddaniel.github.io/My-Personal-Website/
 
 #### Skills
 ---
