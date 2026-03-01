@@ -8,7 +8,7 @@ I'm a 4th-year Computer Engineering student at Queen's University.
 ---
 - 💻 Working at CIBC as a Systems Engineer Intern!
 - 🔧 Working on many sideprojects!
-- 🥋 Learning Muay Thai and Brazilian jiu-jitsu
+- 🥋 Training MMA
 
 #### Experience
 - Current: Systems Engineering Intern @ CIBC
